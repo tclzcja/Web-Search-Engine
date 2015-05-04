@@ -32,6 +32,7 @@ namespace WSE3
         public static void Go()
         {
             Directory.CreateDirectory(Program.Directory_Output + "Ultimate Lexicon");
+            Directory.CreateDirectory(Program.Directory_Output + "Word Amount");
 
             Cache_Doc_Amount_Containing_Word = new Dictionary<string, int>();
             Cache_Term_Frequency_In_Doc = new Dictionary<string, Dictionary<int, int>>();
@@ -188,11 +189,6 @@ namespace WSE3
             Read_Query();
         }
 
-        private static void Output_Query(int[] doc_id, int[] new_doc_id)
-        {
-
-        }
-
         private static double Score(string word, int doc_id)
         {
             double k1 = 1.6;
@@ -205,11 +201,6 @@ namespace WSE3
             double IDF = (N - nq + 0.5) / (nq + 0.5);
             double secondpart = Get_Term_Frequency_In_Doc(word, doc_id) * (k1 + 1) / (Get_Term_Frequency_In_Doc(word, doc_id) + k1 * (1 - b + b * Cache_Doc_Word_Amount[doc_id] / Average_Word_Amount));
             finalscore = IDF * secondpart;
-
-            if (secondpart != 0.0)
-            {
-                var a = 1;
-            }
 
             //Frequency in Document D
             //Document Length
