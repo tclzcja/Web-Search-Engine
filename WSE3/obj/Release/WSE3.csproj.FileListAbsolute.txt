@@ -1,9 +1,0 @@
-C:\Users\Jingan Chen\SkyDrive\Projects\New York University\Web Search Engine\Assignment 3\Program\WSE3\WSE3\bin\Release\WSE3.exe.config
-C:\Users\Jingan Chen\SkyDrive\Projects\New York University\Web Search Engine\Assignment 3\Program\WSE3\WSE3\bin\Release\WSE3.exe
-C:\Users\Jingan Chen\SkyDrive\Projects\New York University\Web Search Engine\Assignment 3\Program\WSE3\WSE3\bin\Release\WSE3.pdb
-C:\Users\Jingan Chen\SkyDrive\Projects\New York University\Web Search Engine\Assignment 3\Program\WSE3\WSE3\bin\Release\HtmlAgilityPack.dll
-C:\Users\Jingan Chen\SkyDrive\Projects\New York University\Web Search Engine\Assignment 3\Program\WSE3\WSE3\bin\Release\HtmlAgilityPack.pdb
-C:\Users\Jingan Chen\SkyDrive\Projects\New York University\Web Search Engine\Assignment 3\Program\WSE3\WSE3\bin\Release\HtmlAgilityPack.xml
-C:\Users\Jingan Chen\SkyDrive\Projects\New York University\Web Search Engine\Assignment 3\Program\WSE3\WSE3\obj\Release\WSE3.exe
-C:\Users\Jingan Chen\SkyDrive\Projects\New York University\Web Search Engine\Assignment 3\Program\WSE3\WSE3\obj\Release\WSE3.pdb
-C:\Users\Jingan Chen\SkyDrive\Projects\New York University\Web Search Engine\Assignment 3\Program\WSE3\WSE3\obj\Release\WSE3.csprojResolveAssemblyReference.cache
